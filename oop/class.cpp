@@ -31,5 +31,6 @@ int main()
     c1.breadth=5;
     c1.length= 6;
     c1.height= 8;
-    cout << c1 << calArea();
+    cout << "Area is : " << c1.calArea() << endl;
+    cout << "Formula is : " << c1.calFormula() << endl;
 }
