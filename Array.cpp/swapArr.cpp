@@ -18,3 +18,9 @@ int main()
 {
     revereAss
 }
+/*swap alternative elements of array
+pair sum
+triplet sum
+sort 0's and 1's
+find unique elements
+find duplicate*/

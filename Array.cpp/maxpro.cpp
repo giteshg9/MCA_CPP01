@@ -6,8 +6,7 @@ void printArr(int aare[],int size)
     for (int i = 0; i < 5; i++)
     {
         cout << aare[i];
-    }
-    
+    }   
 }
 
 int getMin(int aare[],int size)
