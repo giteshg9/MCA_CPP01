@@ -1,0 +1,2 @@
+/*frist we will tate an element as an pivot then we put all small element on left of the element and big on right of the element.
+*/
